@@ -3,7 +3,7 @@ export default function Image( ){
     return (
         <div className="cont">
         <div className="img">
-            <img src="/p1 (1).jpg" alt="p1"/>
+            <img src="/public/p1 (1).jpg" alt="p1"/>
         </div>
         <div className="img">
             <img src="/p2.jpg" alt="p1"/>
